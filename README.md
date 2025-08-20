@@ -43,14 +43,8 @@ Edit
 ---
 ## Requirements.txt
 
-numpy
-pandas
-matplotlib
-yfinance
-scikit-learn
-tensorflow
-keras
-streamlit
+numpy                                                                                                                  
+pandas                                                                                                        matplotlib                                                                                                      yfinance                                                                                                          scikit-learn                                                                                                  tensorflow                                                                                                        keras                                                                                                          streamlit
 You can create a requirements.txt file in your project folder and add these. Then run in command prompt
 pip install -r requirements.txt
 You can install all the dependencies for the project.
